@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - [Self Host Manager](https://github.com/MusicMakerOwO/SelfHostManager), easy process manager for self hosting projects
 
 **Tools** :
+- [SimplyJS](https://github.com/MusicMakerOwO/SimplyJS), Discord API wrapper focused on minimalism and type safety
 - [Micro Base](https://github.com/MusicMakerOwO/MicroBase), premade discord bot to skip project setup
 
 **Contact** :
@@ -27,4 +28,4 @@ Here are some ideas to get you started:
 
 **About** :
 
-I'm very passionate about online privacy and user experiences. In my work I prioritize code quality and readability, with a particular focus on efficient data structures and algorithms. Currently tech stack is JavaScript, TypeScript, SQL, HTML/CSS, and learning Rust.
+I'm very passionate about online privacy and user experiences. In my work I prioritize code quality and readability, with a particular focus on efficient data structures and algorithms. Current tech stack is JavaScript, TypeScript, SQL, HTML/CSS, and learning Rust.
